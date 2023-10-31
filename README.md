@@ -1,4 +1,4 @@
-# NCR-FastLane-Operator-Decoder
+# NCR FastLane Operator Decoder
 Program to encode and decode operator barcodes for NCR FastLane Self Checkout
 
 
